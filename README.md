@@ -2,7 +2,8 @@
 
 
 ## Blockchain Ends associated to this project
-#### Smart contracts deployment
+- [smart contracts deployment](https://github.com/Luyunee/hardhat_nft_market/tree/master)
+- [data indexing](https://github.com/Luyunee/graph_nft_market/tree/master)
 
 
 
